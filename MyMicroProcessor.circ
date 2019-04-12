@@ -4310,7 +4310,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT05-"/>
+      <a name="label" val="OUT05-2"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,630)" name="Pin">
@@ -4318,7 +4318,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT04-"/>
+      <a name="label" val="OUT04-4"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,880)" name="Pin">
@@ -4326,7 +4326,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT07-"/>
+      <a name="label" val="OUT07-2"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,900)" name="Pin">
@@ -4334,7 +4334,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT07-"/>
+      <a name="label" val="OUT07-4"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,680)" name="Pin">
@@ -4342,7 +4342,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT05-"/>
+      <a name="label" val="OUT05-1"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,810)" name="Pin">
@@ -4350,7 +4350,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT06-"/>
+      <a name="label" val="OUT06-4"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,650)" name="Pin">
@@ -4358,7 +4358,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT04-"/>
+      <a name="label" val="OUT04-8"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,590)" name="Pin">
@@ -4366,7 +4366,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT04-"/>
+      <a name="label" val="OUT04-1"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,430)" name="Pin">
@@ -4382,7 +4382,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT08-"/>
+      <a name="label" val="OUT08-1"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,470)" name="Pin">
@@ -4406,7 +4406,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT07-"/>
+      <a name="label" val="OUT07-8"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,830)" name="Pin">
@@ -4414,7 +4414,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT06-"/>
+      <a name="label" val="OUT06-8"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,320)" name="Pin">
@@ -4430,7 +4430,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT08-"/>
+      <a name="label" val="OUT08-8"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,990)" name="Pin">
@@ -4438,7 +4438,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT08-"/>
+      <a name="label" val="OUT08-4"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,610)" name="Pin">
@@ -4446,7 +4446,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT04-"/>
+      <a name="label" val="OUT04-2"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,560)" name="Pin">
@@ -4470,7 +4470,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT05-"/>
+      <a name="label" val="OUT05-4"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,360)" name="Pin">
@@ -4494,7 +4494,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT06-"/>
+      <a name="label" val="OUT06-2"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,410)" name="Pin">
@@ -4510,7 +4510,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT05-"/>
+      <a name="label" val="OUT05-8"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,860)" name="Pin">
@@ -4518,7 +4518,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT07-"/>
+      <a name="label" val="OUT07-1"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,970)" name="Pin">
@@ -4526,7 +4526,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT08-"/>
+      <a name="label" val="OUT08-2"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,770)" name="Pin">
@@ -4534,7 +4534,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
-      <a name="label" val="OUT06-"/>
+      <a name="label" val="OUT06-1"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(1440,500)" name="Pin">
