@@ -3088,6 +3088,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(110,280)" name="Pin">
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
+      <a name="label" val="Carry In"/>
     </comp>
     <comp lib="0" loc="(110,150)" name="Pin">
       <a name="output" val="true"/>
@@ -3099,6 +3100,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
+      <a name="label" val="RAM Write"/>
     </comp>
     <comp lib="0" loc="(110,80)" name="Pin">
       <a name="tristate" val="false"/>
@@ -3114,6 +3116,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(110,300)" name="Pin">
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
+      <a name="label" val="Zero In"/>
     </comp>
     <comp lib="0" loc="(110,120)" name="Pin">
       <a name="tristate" val="false"/>
@@ -3147,6 +3150,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
+      <a name="label" val="ALU Out Read"/>
     </comp>
     <comp lib="0" loc="(110,40)" name="Pin">
       <a name="output" val="true"/>
@@ -3164,6 +3168,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
       <a name="pull" val="down"/>
+      <a name="label" val="RAM Read"/>
     </comp>
   </circuit>
   <circuit name="ALU V2">
